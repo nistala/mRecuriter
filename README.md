@@ -1,2 +1,6 @@
 # mRecuriter
-Demo Screen Communication
+
+Login Credentials are static
+username-snistala
+password-12345
+
